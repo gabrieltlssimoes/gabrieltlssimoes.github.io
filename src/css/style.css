@@ -157,9 +157,9 @@ header {
   justify-content: center;
   align-items: center;
   gap: 25px;
-  padding: 20px;
+  padding: 25px;
 }
-.data-images .img-data {
+.img-data {
   width: 100%;
   box-shadow: 0px 0px 2px;
 }
